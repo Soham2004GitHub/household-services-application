@@ -1,0 +1,7 @@
+body {
+    background-image: url('backgroundtile.jpg'); /* Adjust the path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }

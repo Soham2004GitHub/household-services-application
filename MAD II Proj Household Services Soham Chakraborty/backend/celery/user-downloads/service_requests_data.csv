@@ -1,0 +1,9 @@
+service_req_id,customer_id,professional_id,status,address,rating,review_text,reviewed_at
+1,2,5,Completed,Kolkata,5.00,Impressive!,2025-02-12T19:37:44.639112
+3,2,5,Completed,Kolkata,4.00,Very Good!,2025-02-14T11:13:27.809532
+6,3,8,Completed,Pune,3.00,"Can do better, but no worries!",2025-02-14T16:48:24.308435
+12,4,7,Completed,Chennai,5.00,Excellent! Thank You!,2025-02-14T16:49:42.174343
+28,3,8,Completed,Pune,2.00,You forgot to fix the basin.,2025-02-14T17:00:02.904324
+31,3,8,Completed,Pune,4.00,Now its quite good!,2025-02-14T17:00:15.185714
+41,3,8,Completed,Pune,5.00,All set!,2025-02-14T17:02:37.001386
+42,9,10,Completed,Jaipur,5.00,Good Work!,2025-02-14T19:20:00.249028
